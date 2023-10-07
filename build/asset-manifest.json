@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Netfflixapp_reactt/static/css/main.5bf9b5d1.css",
+    "main.js": "/Netfflixapp_reactt/static/js/main.1c9cefc1.js",
+    "index.html": "/Netfflixapp_reactt/index.html",
+    "main.5bf9b5d1.css.map": "/Netfflixapp_reactt/static/css/main.5bf9b5d1.css.map",
+    "main.1c9cefc1.js.map": "/Netfflixapp_reactt/static/js/main.1c9cefc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bf9b5d1.css",
+    "static/js/main.1c9cefc1.js"
+  ]
+}
